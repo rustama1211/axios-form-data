@@ -1,6 +1,6 @@
 {
   "name": "axios-form-data",
-  "version": "1.1.1",
+  "version": "1.1.2",
   "description": "Axios interceptor middleware to encode into form-data",
   "author": "Csaba Sulyok <csaba.sulyok@gmail.com>",
   "license": "ISC",
@@ -11,7 +11,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/csabasulyok/axios-form-data.git"
+    "url": "git+https://github.com/rustama1211/axios-form-data.git"
   },
   "publishConfig": {
     "main": "./dist/index.js",
